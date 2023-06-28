@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SummonerInfo</string>
+    <string name="Rotation">Rotation</string>
+    <string name="ChampionsMastery">Champions Mastery</string>
+    <string name="RandomChampion">Random Champion</string>
+    <string name="riot_token">RGAPI-233ec91c-b0de-44a0-8552-eb34b4dd51ec</string>
+</resources>
